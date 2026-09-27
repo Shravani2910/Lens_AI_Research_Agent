@@ -237,13 +237,22 @@ Enter a research goal and click:
 **Start Research**
 
 ---
+## 8.1 Demo Screenshots
+
+### Research Input
+
+![Lens Research Input](screenshots/lens_UI.png)
+
+### Generated Research Report
+
+![Lens Research Report](screenshots/output1.png)
 
 ## 9. Example
 
 ### Input
 
 ```text
-Research the latest AI agent trends in 2026
+latest AI agent trends in 2026
 ```
 
 ### Example workflow
