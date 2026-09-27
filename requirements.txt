@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-core
+langchain-groq
+streamlit
+python-dotenv
+pydantic
+requests
+beautifulsoup4
+ddgs
