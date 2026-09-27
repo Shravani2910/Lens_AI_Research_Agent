@@ -367,7 +367,7 @@ Potential future improvements include:
 
 ## 14. Demo
 
-A demonstration video showing the Lens workflow is included with the hackathon submission.
+A PPT showing the Lens workflow is included with the hackathon submission.
 
 ---
 
